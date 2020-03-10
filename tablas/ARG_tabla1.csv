@@ -1,0 +1,16 @@
+;Estadistica;Nano;Bioc;Info;Cogno
+1;1 Number of articles;2817;12476;2528;2152
+2;2 Number of journals ;734;1246;839;329
+3;3 Average number of articles per journal;3,84;10,01;3,01;6,54
+4;4 Number of journals cited;20532;75711;33994;19600
+5;5 Number of citations to journals;126914;602869;80532;115511
+6;6 Average number of citation to journals;6,18;7,96;2,37;5,89
+7;7 Number of unique authors;7481;53204;5070;10190
+8;8 Total frequency of authors;15530;100051;8856;16982
+9;9 Average number of authors per article;5,51;8,02;3,5;7,89
+10;10 Number of articles with international collaboration;1524;6543;1113;1203
+11;11 Percentage of articles with international collaboration (%);0,54;0,52;0,44;0,56
+12;12 Number of keywords with frequency>4;3112;16411;1466;3617
+13;13 Number of removed keywords ;18374;40759;15673;12512
+14;14 Number of keywords analysed;21486;57170;17139;16129
+15;15 Total frequency of keywords;66114;483607;33547;85824
